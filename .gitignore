@@ -3,3 +3,4 @@
 passwd
 config
 *.backup
+/xstartup
